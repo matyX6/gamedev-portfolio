@@ -34,7 +34,7 @@ export default [
     <div class="paragraph">
         After successfully releasing my first game, I designed and developed <strong>White Blocks</strong>.
         The game was published on Google Play and App Store.
-        The main goal is to destroy as many blocks as possible while the game gets progressively harder.
+        Main goal is to destroy as many blocks as possible while the game gets progressively harder.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/JxALjkjmOGU" frameborder="0" allowfullscreen></iframe>

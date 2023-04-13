@@ -1,16 +1,19 @@
 <template>
   <div style="margin-bottom: 80px;">
-    <h1>Hello!</h1>
-
+    <h1>About Me</h1>
+    <h5>Professional Bachelor of Computer Science, Software Engineering</h5>
+    
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        Hello, My name is <strong>Matija Jambresic</strong> and I’m a software engineer who spends most of my days developing games.
+        I specialize in <strong>Unity</strong> and <strong>C#</strong>, but I’m also familiar with <strong>Unreal Engine</strong>.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 15px;"> When I’m not working on games, or playing them, you can usually find me tinkering with new technologies or exploring the great outdoors.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 50px;">I've worked on a few video game projects that you can find <router-link to="/game-projects">here</router-link>.</div>
+
+      <div style="margin-top: 0px;">You can reach me at <a href="mailto:matija.jambresic@yahoo.com">matija.jambresic@yahoo.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
@@ -32,6 +35,16 @@
   margin-top: 50px;
   text-align: center;
 }
+
+h1 {
+  margin-bottom: 10px;
+}
+
+h5 {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
 
 @media only screen and (min-width: 620px){
   .paragraph {

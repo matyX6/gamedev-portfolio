@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-6-icon.png", 
+    new ProjectData("project-1", "PHAGEBORN: Online Card Game", "img/projects/project-phageborn-icon.jpg", 
     `
     <div class="paragraph">
      <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
@@ -28,8 +28,8 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#23bd69", false, true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    `, "#87CEEB", false, true),
+    new ProjectData("project-2", "White Blocks", "img/projects/project-whiteblocks-icon.gif", `
     <div class="paragraph">
         <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
@@ -61,7 +61,7 @@ export default [
     <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
     <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
     </div>
-    `, "#5a78af", true, false),
+    `, "#383838", true, false),
     new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
     <div class="paragraph">
         <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
@@ -95,7 +95,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Bunners", "img/projects/project-bunners-icon.gif", `
     <div class="paragraph">
     <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
     <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
@@ -121,5 +121,5 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
     </div>
-    `, "#e80fb7")
+    `, "#FFA500")
 ];

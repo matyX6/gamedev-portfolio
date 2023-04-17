@@ -30,7 +30,7 @@ export default [
         <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-3.jpg"/>
         <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-1.jpg"/>
     </div>
-    `, "#6082B6", false, true),
+    `, "#40E0D0", false, true),
     
     new ProjectData("project-2", "White Blocks", "img/projects/project-whiteblocks-icon.gif", `
     <div class="paragraph">
@@ -58,43 +58,9 @@ export default [
         <img class="pc-screenshot" src="/img/screenshots/ss-whiteblocks-4.png" />
         <img class="pc-screenshot" src="/img/screenshots/ss-whiteblocks-5.png" />
     </div>
-    `, "#40B5AD", true, false),
-    
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
-    <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
+    `, "#0080FE", true, false),
 
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-    </div>
-    `, "#383838"),
-    
-    new ProjectData("project-4", "Bunners", "img/projects/project-bunners-icon.gif", `
+    new ProjectData("project-3", "Bunners", "img/projects/project-bunners-icon.gif", `
     <div class="paragraph">
         <strong>Bunners</strong> was the first commercial project I have worked on. 
         I designed and programmed the game from scratch and it was released on Google Play.
@@ -121,5 +87,54 @@ export default [
         <img class="pc-screenshot" src="/img/screenshots/ss-bunners-3.png" />
         <img class="pc-screenshot" src="/img/screenshots/ss-bunners-4.png" />
     </div>
-    `, "#F4BB44")
+    `, "#FF7518"),
+    
+    new ProjectData("project-4", "Some Prototypes", "img/projects/project-prototypes-icon.gif", `
+    <div class="paragraph">
+        Here you’ll find a collection of some of my favorite projects that I’ve worked on over the years. 
+        I created these in my free time and had a lot of fun doing so. 
+        Each project is designed to be quick and easy to play, with just a few minutes of gameplay.
+    <br><br>
+    <div class="paragraph">
+      <div class="hc-left">
+        <div>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/t7y9mpIINQ8?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+      </div>
+      <div class="hc-right">
+          <div class="hc-title">Timecode</div>
+            Gather your troops and lead them to defeat the enemy!<br>
+          </div>
+          <div style="clear:both"></div>
+    </div>
+    <hr>
+    
+    <div class="paragraph">
+      <div class="hc-left">
+        <div>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/CsvGKm902EY?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+      </div>
+      <div class="hc-right">
+          <div class="hc-title">Planes</div>
+            Gather your troops and lead them to defeat the enemy!<br>
+          </div>
+          <div style="clear:both"></div>
+    </div>
+    <hr>
+    
+    <div class="paragraph">
+      <div class="hc-left">
+        <div>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/byBQir2q6dI?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+      </div>
+      <div class="hc-right">
+          <div class="hc-title">Snake Colors</div>
+            Gather your troops and lead them to defeat the enemy!<br>
+          </div>
+          <div style="clear:both"></div>
+    </div>
+    <hr>
+    `, "#FF2511")
 ];

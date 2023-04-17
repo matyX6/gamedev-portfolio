@@ -7,6 +7,10 @@
 
     <ul>
       <li>
+        <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
+        <a href="https://matyx6.github.io/#/game-projects" target="_blank">https://matyx6.github.io</a>
+      </li>
+      <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
         <a href="mailto:matija.jambresic@yahoo.com" target="_blank">matija.jambresic@yahoo.com</a>
       </li>

@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     
-    <div class="left"><a href="https://github.com/schouffy/gamedev-portfolio" target="blank">Matija Jambresic</a></div>
+    <div class="left">Matija Jambresic</div>
     <div class="right">Reach me at <a href="mailto:matija.jambresic@yahoo.com">matija.jambresic@yahoo.com</a> or <router-link to="/contact">through here</router-link></div>
   </div>
 </template>

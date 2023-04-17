@@ -3,7 +3,7 @@
     <h1>Games</h1>
 
     <div style="margin-bottom: 30px;">
-      The following are some games I've made or heavily contributed to.
+      The following are some games I've made or heavily contributed to. Let me know what you think!
     </div>
 
     <ProjectsList v-bind:projects="projects" />

@@ -89,7 +89,7 @@ export default [
     </div>
     `, "#FF7518"),
     
-    new ProjectData("project-4", "Some Prototypes", "img/projects/project-prototypes-icon.gif", `
+    new ProjectData("project-4", "Unreleased Prototypes", "img/projects/project-prototypes-icon.gif", `
     <div class="paragraph">
         Here you’ll find a collection of some of my favorite projects that I’ve worked on over the years. 
         I created these in my free time and had a lot of fun doing so. 
@@ -98,13 +98,15 @@ export default [
     <div class="paragraph">
       <div class="hc-left">
         <div>
-          <iframe class="youtube-hc" src="https://www.youtube.com/embed/u3BxVqxzUIQ?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/u3BxVqxzUIQ?autoplay=0" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="hc-right">
           <div class="hc-title">Timecode</div>
-            Gather your troops and lead them to defeat the enemy!<br>
-          </div>
+            A puzzle-solving game that requires overcoming obstacles while navigating through a world filled with danger. 
+            <br><br>
+            The game’s protagonist is a hacker who must survive a world powered by corrupt individuals and a new source of energy.
+      </div>
           <div style="clear:both"></div>
     </div>
     <hr>
@@ -112,12 +114,15 @@ export default [
     <div class="paragraph">
       <div class="hc-left">
         <div>
-          <iframe class="youtube-hc" src="https://www.youtube.com/embed/AWMagSSnJZc?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/AWMagSSnJZc?autoplay=0" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="hc-right">
           <div class="hc-title">Planes</div>
-            Gather your troops and lead them to defeat the enemy!<br>
+            Relaxing and meditative game with simple controls and calming music.
+            The main goal is to fly the plane through circles and score as many points as possible.
+            <br> <br>
+            The game is easygoing and perfect for unwinding after a long day.<br>
           </div>
           <div style="clear:both"></div>
     </div>
@@ -131,7 +136,9 @@ export default [
       </div>
       <div class="hc-right">
           <div class="hc-title">Snake Colors</div>
-            Gather your troops and lead them to defeat the enemy!<br>
+            A few years ago, when I was just starting to make games, I created my own version of the popular retro snake game.
+            <br><br>
+            In this game, players must match colors, dodge obstacles and score as many points as possible.<br>
           </div>
           <div style="clear:both"></div>
     </div>

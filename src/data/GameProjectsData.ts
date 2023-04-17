@@ -25,10 +25,10 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-4.jpg"/>
-        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-2.jpg"/>
-        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-3.jpg"/>
-        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-1.jpg"/>
+        <img class="pc-screenshot" src="/img/screenshots/ss-phageborn-4.jpg"/>
+        <img class="pc-screenshot" src="/img/screenshots/ss-phageborn-2.jpg"/>
+        <img class="pc-screenshot" src="/img/screenshots/ss-phageborn-3.jpg"/>
+        <img class="pc-screenshot" src="/img/screenshots/ss-phageborn-1.jpg"/>
     </div>
     `, "#40E0D0", false, true),
     
@@ -98,7 +98,7 @@ export default [
     <div class="paragraph">
       <div class="hc-left">
         <div>
-          <iframe class="youtube-hc" src="https://www.youtube.com/embed/t7y9mpIINQ8?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/u3BxVqxzUIQ?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
         </div>
       </div>
       <div class="hc-right">
@@ -112,7 +112,7 @@ export default [
     <div class="paragraph">
       <div class="hc-left">
         <div>
-          <iframe class="youtube-hc" src="https://www.youtube.com/embed/CsvGKm902EY?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/AWMagSSnJZc?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
         </div>
       </div>
       <div class="hc-right">
@@ -126,7 +126,7 @@ export default [
     <div class="paragraph">
       <div class="hc-left">
         <div>
-          <iframe class="youtube-hc" src="https://www.youtube.com/embed/byBQir2q6dI?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
+          <iframe class="youtube-hc" src="https://www.youtube.com/embed/F_xUdF1lh-I?autoplay=0" frameborder="0" allowfullscreen=""></iframe>
         </div>
       </div>
       <div class="hc-right">

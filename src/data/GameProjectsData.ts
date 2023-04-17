@@ -1,32 +1,34 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "PHAGEBORN: Online Card Game", "img/projects/project-phageborn-icon.jpg", 
+    new ProjectData("project-1", "PHAGEBORN: Online Card Game", "img/projects/project-phageborn-icon.gif", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+         <strong>Phageborn</strong> is an immersive online card game which combines rich and engaging storytelling with deep and strategic gameplay.
+         As a Unity C# programmer, I was responsible for implementing new features and fixing bugs in this project.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/qEAvwwXACf8" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+        <a href="https://store.steampowered.com/app/1037990/PHAGEBORN_Online_Card_Game/" target="_blank"><img src="img/projects/steam-store-logo.png" alt="Play Store badge" /></a>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Online matchmaking</li>
+        <li>1v1, 2v2 battles</li>
+        <li>Characters with unique abilities</li>
+        <li>Rich storytelling and lore</li>
         </ul>
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-4.jpg"/>
+        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-2.jpg"/>
+        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-3.jpg"/>
+        <img class="phone-screenshot" src="/img/screenshots/ss-phageborn-1.jpg"/>
     </div>
     `, "#6082B6", false, true),
     

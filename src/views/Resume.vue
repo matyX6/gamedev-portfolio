@@ -3,119 +3,126 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
+      I'm <strong>Matija Jambresic</strong>, a game developer with expert skills in C# programming. 
+      Specialized in making Unity games with more than 5 years of game making and programming experience.
       <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
-      <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/matija_jambresic_resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
         <div style="clear:both"></div>
       </div>
-    </div>
-    <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
     </div>
 
     <div style="clear:both"></div>
 
     <div class="full-content">
-      <h2>Work experience</h2>
+      <h2>Skills & abilities ⌨️</h2>
+      <div class="tech-stack">
+        <br />
+        • Highly skilled C# programmer specialized in using Unity.
+        <br />
+        • Familiar with Unreal Engine and C++
+        <br />
+        • Version control with Git and Perforce
+        <br />
+        • Networking solutions like MLAPI and Photon Bolt
+        <br />
+        • Profiling and performance optimization skills
+      </div>
+      
+      <h2>Work experience 💻</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h2>Skills</h2>
-
-      <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+      <h3>Games Revolted, Game Developer - Phageborn Online Card Game [Steam]</h3>
+      <h4>Oct 2019 - Mar 2020</h4>
+      <div class="tech-stack">
+        • Worked on published game similar to Hearthstone
+        <br />
+        • Client side & gameplay programming
+        <br />
+        • Implemented standard card game and Steam features
+        <br />
+        • Worked in team with colleagues, outsource and other professionals
       </div>
 
-      <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+      <h3>Binx Games, Unity C# Developer</h3>
+      <h4>Jun 2020 - Present</h4>
+      <div class="tech-stack">
+        • Worked on big project (canceled) and various prototypes
+        <br />
+        • Client & Server side gameplay and features programming
+        <br />
+        • Worked on various game prototypes (TPS, FPS, Action, ...)
+        <br />
+        • Got even better understanding of a teamwork
       </div>
-      <div style="clear:both" />
 
-      <h2>Education</h2>
-
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
-
-      <h2>Languages</h2>
-
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
-
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
-
-
-      <h2>Besides...</h2>
-      <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
-
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
-
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
-
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
-
+      <h3>My own published projects - Bunners, White Blocks [Android & iOS]</h3>
+      <h4>Jun 2020 - Present</h4>
+      <div class="tech-stack">
+        • Created games and all their elements and features from scratch
+        <br />
+        • Researched and implemented user retention features like lootboxes & skins
+        <br />
+        • Polished gameplay based on user and tester feedback
+        <br />
+        • Worked with publishing & advertising platforms
       </div>
+
+      <h3>Internship, Polytechnic of Međimurje in Čakovec</h3>
+      <h4>Mar 2019</h4>
+      <div class="tech-stack">
+        • Basics of Augmented reality - Microsoft Hololens, Unity
+        <br />
+        • Basics of Virtual reality - Oculus Rift, Unity
+        <br />
+        • Motion sensor programming - Leap Motion, Unity
+      </div>
+
+      <h3>Internship, CLAB</h3>
+      <h4>2015 - 2016</h4>
+      <div class="tech-stack">
+        • 160 hours of practice in programming environment with professionals using C# and C++ for sensor programming
+      </div>
+
+      <h2>Education 🎓</h2>
+
+      <h3>Technical School Čakovec – Computer Science, Software Engineering</h3>
+      <h4>2012 – 2016</h4>
+      <div class="tech-stack">
+        • Start of my programming journey more than 10 years ago
+        <br />
+        • Created my first games like Pacman and 2D racing in GameMaker engine
+        <br />
+        • Created full Platformer game(menu, death, movement, score, win condition) as a final project
+      </div>
+
+      <h3>Bachelor of Computer Science, Software Engineering – Polytechnic of Međimurje in Čakovec</h3>
+      <h4>2016 – 2019</h4>
+      <div class="tech-stack">
+        • Specialized in Software Engineering
+        <br />
+        • Learned Math applied in programming
+        <br />
+        • Created desktop/web apps (system monitoring, downloader, hotel booking, …)
+        <br />
+        • Attended various game development classes and created small video games
+        <br />
+        • Created Rail Shooter game like Nintendo’s Star Fox Zero as a final project
+        <br />
+        Graduation date: 22.07.2019.
+      </div>
+
+      <h2>Languages 🗺️</h2>
+
+      <h3>Croatian 🇭🇷</h3>
+      <div>• Native</div>
+
+      <h3>English 🇬🇧</h3>
+      <div>• Proficient</div>
+
     </div>
   </div>
 </template>
-
-<script lang="ts">
-import Vue from "vue";
-import SkillRate from "@/components/SkillRate.vue";
-
-export default Vue.extend({
-  name: "Resume",
-  components: {
-    SkillRate,
-  },
-});
-</script>
 
 <style scoped>
 h2 {
